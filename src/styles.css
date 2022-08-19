@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  width: fit-content;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+  font-weight: 900;
+  margin: 0;
+  font-size: 34px;
+  line-height: 48px;
+}
+
+h2 {
+  color: aqua;
+  text-align: center;
+}
+h3 {
+  color: aqua;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+p.degree {
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 10px;
+}
+button {
+  display: block;
+  margin: 10px;
+}
